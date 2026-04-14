@@ -1,0 +1,6 @@
+{
+  "name": "自动教案生成系统",
+  "description": "基于 AI 的自动化教案生成工具，支持知识点讲解、例题设计及 PDF 导出打印。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
